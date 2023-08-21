@@ -522,6 +522,10 @@ Calldata does not actually work with string
 
 So we need to make it memory <br>
 
+![k70](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/24adeaa7-6e65-4d97-9117-25409f5adf60)
+
+Thus our contarct is compiled successfully <br>
+
 
 
 
