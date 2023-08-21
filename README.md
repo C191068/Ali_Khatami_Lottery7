@@ -546,6 +546,10 @@ to get the number of particicpants we use the above line of code <br>
 
 To get the latest time stamp <br>
 
+![k75](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/06905223-c2be-4c2b-9113-3a2b3165dda6)
+
+To get the request confirmation <br>
+
 
 
 
