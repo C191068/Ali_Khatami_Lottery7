@@ -288,7 +288,10 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 ### Code cleanup
 
 
-now we gonna make our code more professional <br>
+now we gonna make our code more professional and give people who are reading this contract  <br>
+
+even more  information <br>
+
 
 
 
