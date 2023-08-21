@@ -510,8 +510,9 @@ people to get a chance to lottery state  <br>
 
 We vprobably want to give people the chance to get a  number of words <br>
 
+![k68](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/5ee7f736-61ec-437e-be7b-fb9ef7fa2dc2)
 
-
+Calldata does not actually work with string 
 
 
 
