@@ -50,6 +50,9 @@ be override <br>
 
 We gonna do a lit bit valaidation because right now anybody can call our performUpkeep function <br>
 
+We have to make sure it only gets called when checkupkeep is true <br>
+
+
 
 
 
