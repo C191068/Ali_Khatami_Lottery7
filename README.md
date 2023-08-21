@@ -24,6 +24,33 @@ to performUpkeep function <br>
 Since once checkUpkeep returns true the chainlink node will automatically call the <br>
 performUpkeep function <br>
 
+![k54](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/66433f60-3fa1-4622-9ea4-bf648dbbb2c5)
+
+requsetRandomwinner replace to performUpkeep <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
