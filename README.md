@@ -90,6 +90,9 @@ lotter is actually open <br>
 So here we create the new error function <br>
 
 
+![k63](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/10baff53-1354-4410-9b13-fbde57da9af3)
+
+
 We need to reset timestamp, evrytime the winner is picked we want to resest the timestamp as well <br>
 
 So that we can wait another interval and let people particicpate in lottery for that interval <br>
