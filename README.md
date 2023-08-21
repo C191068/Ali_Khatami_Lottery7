@@ -542,6 +542,10 @@ and read the number 1
 
 to get the number of particicpants we use the above line of code <br>
 
+![k74](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/3f287153-445d-4f50-a862-973006d8bd28)
+
+To get the latest time stamp <br>
+
 
 
 
