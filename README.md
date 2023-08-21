@@ -538,6 +538,11 @@ Thus we have changed it from view to pure <br>
 Returning NUMWORDS does not actually read in  storage it will literrary go <br>
 and read the number 1 
 
+![k73](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/873a36dc-7d08-4490-b031-23430dc556ae)
+
+to get the number of particicpants we use the above line of code <br>
+
+
 
 
 
