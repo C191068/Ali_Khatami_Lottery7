@@ -74,6 +74,10 @@ in order to keep going with the function <br>
 ![k60](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/0a054af5-fbe6-440a-ab86-ca3f229e4d9a)
 
 here we create a new revert error for upKeep if not needed <br>
+We gonna pass some variables to this error so that whoever is running into this bug <br>
+
+can hopefully see why they are getting this error <br>
+
 
 
 
