@@ -53,6 +53,9 @@ We gonna do a lit bit valaidation because right now anybody can call our perform
 We have to make sure it only gets called when checkupkeep is true <br>
 
 
+An easy way to do that is to call our own checkupkeep function <br>
+
+
 
 
 
