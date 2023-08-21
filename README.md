@@ -85,6 +85,10 @@ so we will pass the balance of this contract just in case there is no ether is h
 players dot length just in case there is no players and third one to make sure <br>
 lotter is actually open <br>
 
+![k62](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/ff495bbc-00ac-4f18-a144-c16edb00d197)
+
+So here we create the new error function <br>
+
 
 
 
