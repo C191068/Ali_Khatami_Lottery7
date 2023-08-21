@@ -29,6 +29,12 @@ performUpkeep function <br>
 requsetRandomwinner replace to performUpkeep <br>
 
 
+![k55](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/a2f2f599-700f-4d2c-a89d-a04d040926fb)
+
+
+And we will have it to take input parameter as the above <br>
+
+
 
 
 
