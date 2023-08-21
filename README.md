@@ -527,6 +527,9 @@ So we need to make it memory <br>
 Thus our contarct is compiled successfully <br>
 
 
+Since NUMWORDS is a bytecode and a constant variable <br>
+
+
 
 
 
