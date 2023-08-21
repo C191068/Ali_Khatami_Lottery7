@@ -57,6 +57,11 @@ An easy way to do that is to call our own checkupkeep function <br>
 
 As checkupkeep is external we can't call our own checkup function <br>
 
+![k58](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/04410442-7aa6-4642-a5d3-2928f4dfaeed)
+
+So we made it public <br>
+
+
 
 
 
