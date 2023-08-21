@@ -68,8 +68,14 @@ So we made it public so that our own smart contarct can call these chcekupkeep f
 In performUpkeep we can call checkUpkeep passing nothing and return upkeepneeded and performdata,<br> 
 performdata is not needed and for that we giv ethe above line of code  <br>
 
-Now we want to make sure that boolean of upkeepneeded is true in order<br>
+Now we want to make sure that boolean of upkeepneeded is true <br>
 in order to keep going with the function <br>
+
+![k60](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/0a054af5-fbe6-440a-ab86-ca3f229e4d9a)
+
+here we create a new revert error for upKeep if not needed <br>
+
+
 
 
 
