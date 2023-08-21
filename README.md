@@ -514,6 +514,9 @@ We vprobably want to give people the chance to get a  number of words <br>
 
 Calldata does not actually work with string 
 
+![k69](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/377b942f-c26c-4fd8-b2a6-cbe1980eee32)
+
+So we need to make it memory <br>
 
 
 
