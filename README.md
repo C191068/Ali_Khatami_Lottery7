@@ -503,7 +503,8 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
 ![k66](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/9423aed7-bcc0-454f-870c-1f1471c2191d)
 
-We have added a new get function because we probably want people to get a chance to lottery state  <br>
+We have added a new get function because we probably want to give <br>
+people to get a chance to lottery state  <br>
 
 
 
