@@ -90,7 +90,10 @@ lotter is actually open <br>
 So here we create the new error function <br>
 
 
-We need to reset timestamp, evrytime the winner is picked we want to resest the timestamp <br>
+We need to reset timestamp, evrytime the winner is picked we want to resest the timestamp as well <br>
+
+So that we can wait another interval and let people particicpate <br>
+
 
 
 
