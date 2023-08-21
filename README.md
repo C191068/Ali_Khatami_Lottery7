@@ -21,6 +21,12 @@ So instead of having these extra function we will transform the above function s
 to performUpkeep function <br>
 
 
+Since once checkUpkeep returns true the chainlink node will automatically call the <br>
+performUpkeep function <br>
+
+
+
+
 
 
 
