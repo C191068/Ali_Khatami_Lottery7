@@ -9,7 +9,14 @@ that will get executed after upkeepNeeded returns true <br>
 
 This gonna be our performUpkeep function <br>
 
-Now when it is time to pick a rando winner actually we gonna do 
+
+![k53](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/950c4697-eea1-4ac9-acd0-5ad4f07a8d84)
+
+
+Now when it is time to pick a rando winner actually what we gonna do <br>
+is just call this function <br>
+
+
 
 
 
