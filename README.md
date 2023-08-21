@@ -527,7 +527,13 @@ So we need to make it memory <br>
 Thus our contarct is compiled successfully <br>
 
 
-Since NUMWORDS is a bytecode and a constant variable <br>
+Since NUMWORDS is a bytecode and a constant variable ,technically isn't reading from storage <br>
+
+![k71](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/f82b3fd7-8651-4893-b296-696980ff3e16)
+
+Thus we have changed it from view to pure <br>
+
+
 
 
 
