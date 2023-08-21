@@ -61,6 +61,10 @@ As checkupkeep is external we can't call our own checkup function <br>
 
 So we made it public so that our own smart contarct can call these chcekupkeep function  <br>
 
+In performUpkeep we can call checkUpkeep passing nothing and return upkeepneeded and performdata <br>
+
+
+
 
 
 
