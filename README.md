@@ -297,6 +297,12 @@ even more  information <br>
 this is what called NatSpec contract documentation <br>
 
 
+![k65](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/02ae9488-a128-438c-94ee-91df7a8e8d4b)
+
+
+thus we ahve added it here <br>
+
+
 
 
 
