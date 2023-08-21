@@ -507,6 +507,8 @@ We have added a new get function because we probably want to give <br>
 people to get a chance to lottery state  <br>
 
 
+We vprobably want to give people the chance to get a  number of words <br>
+
 
 
 
