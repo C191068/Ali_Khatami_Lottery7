@@ -48,6 +48,9 @@ We aree not gonna pass anything to performUpkeep we will leave it comment like t
 Since performUpkkep is identified in the AutomationCompatible interface it is now gonna <br>
 be override <br>
 
+We gonna do alit bit valaidation <br>
+
+
 
 
 
