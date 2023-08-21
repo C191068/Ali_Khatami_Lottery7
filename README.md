@@ -42,6 +42,13 @@ In our checkupkeep we ahve performData we will automatically pass it to performU
 
 We aree not gonna pass anything to performUpkeep we will leave it comment like the above <br>
 
+![k57](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/02c006e3-55aa-4fb5-9ac8-04ebd3ea3462)
+
+
+Since performUpkkep is identified in the AutomationCompatible interface it is now gonna <br>
+be override <br>
+
+
 
 
 
