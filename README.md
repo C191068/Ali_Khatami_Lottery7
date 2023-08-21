@@ -55,6 +55,10 @@ We have to make sure it only gets called when checkupkeep is true <br>
 
 An easy way to do that is to call our own checkupkeep function <br>
 
+As checkupkeep is external we can't call our own checkup function <br>
+
+
+
 
 
 
