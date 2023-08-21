@@ -533,8 +533,10 @@ Since NUMWORDS is a bytecode and a constant variable ,technically isn't reading 
 
 Thus we have changed it from view to pure <br>
 
+![k72](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/706df2f8-b3d7-4d79-a1c1-12cb58a1eacd)
 
-
+Returning NUMWORDS does not actually read in  storage it will literrary go <br>
+and read the number 1 
 
 
 
