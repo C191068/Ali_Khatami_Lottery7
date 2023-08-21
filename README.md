@@ -1,4 +1,4 @@
-# Ali_Khatami_Lottery7(Learning from the video of Patrick Collins)
+![k61](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/5bdd4377-30bc-4c72-9d65-3ca8c58c0abd)# Ali_Khatami_Lottery7(Learning from the video of Patrick Collins)
 
 ### Implementing Chainlink Keepers(performUpkeep)
 
@@ -77,6 +77,14 @@ here we create a new revert error for upKeep if not needed <br>
 We gonna pass some variables to this error so that whoever is running into this bug <br>
 
 can hopefully see why they are getting this error <br>
+
+
+![k61](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/b9b0ca02-f0cd-475a-999e-24e57b915772)
+
+so we will pass the balance of this contract just in case there is no ether is here <br>
+players dot length just in case there is no players and third one to make sure <br>
+lotter is actually open <br>
+
 
 
 
