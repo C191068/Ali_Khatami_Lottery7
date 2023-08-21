@@ -292,6 +292,10 @@ now we gonna make our code more professional and give people who are reading thi
 
 even more  information <br>
 
+![k64](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/e4090887-feb9-42b9-8bbc-54d86f0e4232)
+
+this is what called NatSpec contract documentation <br>
+
 
 
 
