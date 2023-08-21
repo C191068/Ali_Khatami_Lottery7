@@ -61,7 +61,26 @@ As checkupkeep is external we can't call our own checkup function <br>
 
 So we made it public so that our own smart contarct can call these chcekupkeep function  <br>
 
-In performUpkeep we can call checkUpkeep passing nothing and return upkeepneeded and performdata <br>
+
+
+![k59](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/7a7c90ff-20fc-457f-aad9-230f9705a1d9)
+
+In performUpkeep we can call checkUpkeep passing nothing and return upkeepneeded and performdata,<br> 
+performdata is not needed and for that we giv ethe above line of code  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
