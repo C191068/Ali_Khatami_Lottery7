@@ -1,4 +1,4 @@
-![k61](https://github.com/C191068/Ali_Khatami_Lottery7/assets/89090776/5bdd4377-30bc-4c72-9d65-3ca8c58c0abd)# Ali_Khatami_Lottery7(Learning from the video of Patrick Collins)
+# Ali_Khatami_Lottery7(Learning from the video of Patrick Collins)
 
 ### Implementing Chainlink Keepers(performUpkeep)
 
@@ -123,8 +123,10 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
     /*New data type*/
 
     enum LotteryState {
-
+        OPEN,
+        CALCULATING
     }
+
 
     /* State variables */
 
@@ -334,9 +336,11 @@ contract akrkLottery is VRFConsumerBaseV2, AutomationCompatible {
 
     /*New data type*/
 
-    enum LotteryState {
-
+   enum LotteryState {
+        OPEN,
+        CALCULATING
     }
+
 
     /* State variables */
 
